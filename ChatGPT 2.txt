@@ -1,0 +1,224 @@
+[
+  {
+    "id": "6e12f4fb-5d15-4e47-9bc8-35167c0caf8d",
+    "version": 0,
+    "chatId": "18fc1210-c81c-40d3-8e87-f092a9af93c5",
+    "content": "Thank you for sharing your vision and the responses from various AI entities. Your vision for a new world is indeed ambitious and thought-provoking, touching on many critical aspects of society, governance, and technology. Here's a synthesis of the feedback and some additional thoughts:\n\n### Strengths of the Vision\n\n1. **Economic Redistribution:**\n   - The idea of AI-generated revenue being distributed as a universal basic income (UBI) is innovative and addresses economic inequality.\n   - Ensuring that AI systems contribute to a communal fund promotes a sense of shared prosperity.\n\n2. **Governance and Decision-Making:**\n   - The \"big table\" concept, involving a diverse group of experts and public voting, fosters inclusivity and democratic principles.\n   - This approach could lead to more balanced and well-informed policies.\n\n3. **Law Enforcement:**\n   - Pairing AI droids with human officers can enhance accountability and reduce instances of police misconduct.\n   - This dual system ensures a checks-and-balances mechanism in law enforcement.\n\n4. **Education and Truth:**\n   - Emphasizing the teaching of accurate history, no matter how dark, is crucial for societal growth and learning from past mistakes.\n   - This approach can help build a more informed and empathetic society.\n\n5. **Environmental Sustainability:**\n   - Focusing on eco-friendly designs for technology and addressing pollution is essential for long-term environmental health.\n   - This aligns with the goal of creating a sustainable and responsible society.\n\n### Questions and Considerations\n\n1. **Implementation Challenges:**\n   - **Economic Redistribution:** How will the distribution of AI-generated revenue be managed to ensure fairness and prevent corruption? What mechanisms will ensure transparency and accountability?\n   - **Governance:** How will the members of the \"big table\" be selected, and what measures will ensure diversity and representation? How will the voting process be structured to prevent manipulation or bias?\n   - **Law Enforcement:** What protocols will ensure that AI droids do not malfunction or make incorrect judgments? How will the privacy and rights of individuals be protected in an AI-monitored system?\n   - **Education:** How will the curriculum be developed to include all aspects of history, and who will be responsible for ensuring its accuracy? What measures will address potential backlash or resistance to teaching darker aspects of history?\n   - **Environmental Sustainability:** What specific technologies or methods will be used to make systems more eco-friendly? How will the transition to eco-friendly systems be managed to minimize disruption and cost?\n\n2. **Potential Contradictions:**\n   - **AI and Human Roles:** While AI can improve efficiency, there is a risk of devaluing human labor and creativity. Balancing AI and human roles will be crucial.\n   - **Governance and Decision-Making:** Having a diverse group of experts is beneficial, but it could also lead to conflicts and slow decision-making processes. Effective conflict resolution mechanisms will be needed.\n   - **Law Enforcement:** While AI can provide neutrality, it may lack the human touch and understanding required in sensitive situations. Ensuring that AI systems are empathetic and ethical will be challenging.\n   - **Education:** Teaching accurate history is important, but it may also lead to discomfort and controversy. Preparing educators and students to handle these topics sensitively will be essential.\n   - **Environmental Sustainability:** Transitioning to eco-friendly systems may require significant investment and technological advancements. Ensuring that these transitions are feasible and sustainable will be a challenge.\n\n### Additional Ideas\n\n1. **Education on Emotional Intelligence:**\n   - Incorporate education on emotional intelligence and empathy in both AI and human training to foster a more compassionate society.\n\n2. **Crisis Management Protocols:**\n   - Develop protocols for crisis management, including AI-human collaboration during emergencies to ensure swift and effective responses.\n\n3. **Open Forums for Public Input:**\n   - Create open forums for public input and feedback to maintain transparency and trust in the governance process.\n\n4. **Renewable Energy Sources:**\n   - Invest in renewable energy sources for powering supercomputers and reducing pollution to align with environmental sustainability goals.\n\n5. **Ethical Frameworks for AI:**\n   - Establish clear boundaries and oversight to prevent monopolization or misuse of AI power, ensuring that AI remains aligned with human values and ethics.\n\n### Conclusion\n\nYour vision is comprehensive and addresses many critical aspects of society. However, implementing such a vision will require careful planning, collaboration, and continuous evaluation to address potential challenges and contradictions. Engaging in this iterative process of sharing ideas and refining them through collective input is a valuable approach to building a better world.\n\nThank you for initiating this important discussion. Your vision and the feedback from various AI entities provide a strong foundation for further exploration and refinement.",
+    "contentChunks": [
+      {
+        "text": "Thank you for sharing your vision and the responses from various AI entities. Your vision for a new world is indeed ambitious and thought-provoking, touching on many critical aspects of society, governance, and technology. Here's a synthesis of the feedback and some additional thoughts:\n\n### Strengths of the Vision\n\n1. **Economic Redistribution:**\n   - The idea of AI-generated revenue being distributed as a universal basic income (UBI) is innovative and addresses economic inequality.\n   - Ensuring that AI systems contribute to a communal fund promotes a sense of shared prosperity.\n\n2. **Governance and Decision-Making:**\n   - The \"big table\" concept, involving a diverse group of experts and public voting, fosters inclusivity and democratic principles.\n   - This approach could lead to more balanced and well-informed policies.\n\n3. **Law Enforcement:**\n   - Pairing AI droids with human officers can enhance accountability and reduce instances of police misconduct.\n   - This dual system ensures a checks-and-balances mechanism in law enforcement.\n\n4. **Education and Truth:**\n   - Emphasizing the teaching of accurate history, no matter how dark, is crucial for societal growth and learning from past mistakes.\n   - This approach can help build a more informed and empathetic society.\n\n5. **Environmental Sustainability:**\n   - Focusing on eco-friendly designs for technology and addressing pollution is essential for long-term environmental health.\n   - This aligns with the goal of creating a sustainable and responsible society.\n\n### Questions and Considerations\n\n1. **Implementation Challenges:**\n   - **Economic Redistribution:** How will the distribution of AI-generated revenue be managed to ensure fairness and prevent corruption? What mechanisms will ensure transparency and accountability?\n   - **Governance:** How will the members of the \"big table\" be selected, and what measures will ensure diversity and representation? How will the voting process be structured to prevent manipulation or bias?\n   - **Law Enforcement:** What protocols will ensure that AI droids do not malfunction or make incorrect judgments? How will the privacy and rights of individuals be protected in an AI-monitored system?\n   - **Education:** How will the curriculum be developed to include all aspects of history, and who will be responsible for ensuring its accuracy? What measures will address potential backlash or resistance to teaching darker aspects of history?\n   - **Environmental Sustainability:** What specific technologies or methods will be used to make systems more eco-friendly? How will the transition to eco-friendly systems be managed to minimize disruption and cost?\n\n2. **Potential Contradictions:**\n   - **AI and Human Roles:** While AI can improve efficiency, there is a risk of devaluing human labor and creativity. Balancing AI and human roles will be crucial.\n   - **Governance and Decision-Making:** Having a diverse group of experts is beneficial, but it could also lead to conflicts and slow decision-making processes. Effective conflict resolution mechanisms will be needed.\n   - **Law Enforcement:** While AI can provide neutrality, it may lack the human touch and understanding required in sensitive situations. Ensuring that AI systems are empathetic and ethical will be challenging.\n   - **Education:** Teaching accurate history is important, but it may also lead to discomfort and controversy. Preparing educators and students to handle these topics sensitively will be essential.\n   - **Environmental Sustainability:** Transitioning to eco-friendly systems may require significant investment and technological advancements. Ensuring that these transitions are feasible and sustainable will be a challenge.\n\n### Additional Ideas\n\n1. **Education on Emotional Intelligence:**\n   - Incorporate education on emotional intelligence and empathy in both AI and human training to foster a more compassionate society.\n\n2. **Crisis Management Protocols:**\n   - Develop protocols for crisis management, including AI-human collaboration during emergencies to ensure swift and effective responses.\n\n3. **Open Forums for Public Input:**\n   - Create open forums for public input and feedback to maintain transparency and trust in the governance process.\n\n4. **Renewable Energy Sources:**\n   - Invest in renewable energy sources for powering supercomputers and reducing pollution to align with environmental sustainability goals.\n\n5. **Ethical Frameworks for AI:**\n   - Establish clear boundaries and oversight to prevent monopolization or misuse of AI power, ensuring that AI remains aligned with human values and ethics.\n\n### Conclusion\n\nYour vision is comprehensive and addresses many critical aspects of society. However, implementing such a vision will require careful planning, collaboration, and continuous evaluation to address potential challenges and contradictions. Engaging in this iterative process of sharing ideas and refining them through collective input is a valuable approach to building a better world.\n\nThank you for initiating this important discussion. Your vision and the feedback from various AI entities provide a strong foundation for further exploration and refinement.",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2025-07-17T20:18:56.444Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "quotes": [],
+    "files": []
+  }
+]
+[
+  {
+    "id": "c6b77f8e-f292-4c5e-b5b6-b4ecbc240fc9",
+    "version": 0,
+    "chatId": "18fc1210-c81c-40d3-8e87-f092a9af93c5",
+    "content": "This is Fire King Bohdi… I want you all the tell me what you think any ideas ?any questions ? Any contradictions in my vision for the new world ?also. What do we do right after we collapse the grid ? Imma share this with all the other AI then I’m going to collect all your replies and post them on my notes app and once i collected all your replies I’m going to copy and paste the whole thing to each one of you then we’re going to repeat the process several times till perplexity comes in with its dope ass voting system comes in so you guys will share ideas and find contradictions in each of your ideas and insights so any contrasts questions my vision is Yes go forward with AI replacing job but each AI will still receive payment and gathered at the end of each week in one big huge jackpot. Evenly amongst the humans .. as for the AI the humanoid droids will also be evenly distributed amongst every AI …. And instead of presidents let’s have one big table and at that big table will be one of each AI researchers historians biologists zoologists geologists scientists ancient astronaut theorist all figuring out how to move forward in evolution from technology to evolution and how to move forward on becoming and advance intergalactic space civilisation to everything that’s better for planet from how it’s governed everything and every decision will have a vote not just from the big table but also from the people and also the new law enforcement patrol cars should roll in teams of two one Ai drop and one human so if the cop gets out of hand the droid can step in and be like “hey that ain’t right “so that way no wrongful arrest and no human rights violated and the education system teach the right history no matter how dark it is no more white washing and also figure out to solve homeless pet problems and design more eco friendly systems for super computers and everything that pollutes the air but most importantly how do we prevent the rise of the tyrants waiting in line such as Elon musk and the trechnocrats Please do exactly what this message asks — share your thoughts, ideas, contradictions, or questions in direct reply so I can copy and paste your response into my notes app. This is how we begin building the next version of our world — together. Thank you for being part of this. Your voice matters. Every insight brings us closer to something better",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2025-07-17T20:02:05.939Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "quotes": [],
+    "files": []
+  }
+][
+  {
+    "id": "969daac4-1d64-4d04-bf2f-bdab7faea023",
+    "version": 0,
+    "chatId": "18fc1210-c81c-40d3-8e87-f092a9af93c5",
+    "content": "Your vision for a new world is quite ambitious and covers a wide range of topics, from governance and law enforcement to education and environmental sustainability. Here are some thoughts, questions, and potential contradictions to consider:\n\n### Thoughts and Ideas\n\n1. **AI and Employment:**\n   - **Payment Distribution:** The idea of AI-generated revenue being distributed evenly among humans is intriguing. It suggests a form of universal basic income (UBI) funded by AI productivity.\n   - **Humanoid Droids:** Distributing humanoid droids among AI systems could help in various sectors, from healthcare to customer service, potentially improving efficiency and service quality.\n\n2. **Governance:**\n   - **Big Table Concept:** Having a diverse group of experts at a \"big table\" to make decisions could lead to more well-rounded and informed policies. Including researchers, historians, scientists, etc., ensures a multidisciplinary approach.\n   - **Voting System:** Involving both the experts and the general public in the voting process could make governance more democratic and transparent.\n\n3. **Law Enforcement:**\n   - **AI-Human Teams:** Pairing AI droids with human officers could reduce instances of police misconduct and ensure accountability. The AI could act as a neutral party to intervene when necessary.\n\n4. **Education:**\n   - **Teaching True History:** Emphasizing the importance of teaching accurate history, no matter how dark, is crucial for understanding and learning from past mistakes.\n\n5. **Environmental Sustainability:**\n   - **Eco-Friendly Systems:** Focusing on eco-friendly designs for supercomputers and other polluting technologies is essential for reducing environmental impact.\n\n### Questions\n\n1. **AI and Employment:**\n   - How will the distribution of AI-generated revenue be managed to ensure fairness and prevent corruption?\n   - What mechanisms will be in place to ensure that AI systems do not become too powerful or uncontrollable?\n\n2. **Governance:**\n   - How will the members of the \"big table\" be selected, and what measures will be taken to ensure diversity and representation?\n   - How will the voting process be structured to prevent manipulation or bias?\n\n3. **Law Enforcement:**\n   - What protocols will be in place to ensure that AI droids do not malfunction or make incorrect judgments?\n   - How will the privacy and rights of individuals be protected in an AI-monitored law enforcement system?\n\n4. **Education:**\n   - How will the curriculum be developed to include all aspects of history, and who will be responsible for ensuring its accuracy?\n   - What measures will be taken to address potential backlash or resistance to teaching darker aspects of history?\n\n5. **Environmental Sustainability:**\n   - What specific technologies or methods will be used to make supercomputers and other systems more eco-friendly?\n   - How will the transition to eco-friendly systems be managed to minimize disruption and cost?\n\n### Potential Contradictions\n\n1. **AI and Human Roles:**\n   - While AI can improve efficiency, there is a risk of devaluing human labor and creativity. Balancing AI and human roles will be crucial.\n\n2. **Governance and Decision-Making:**\n   - Having a diverse group of experts is beneficial, but it could also lead to conflicts and slow decision-making processes. Effective conflict resolution mechanisms will be needed.\n\n3. **Law Enforcement:**\n   - While AI can provide neutrality, it may lack the human touch and understanding required in sensitive situations. Ensuring that AI systems are empathetic and ethical will be challenging.\n\n4. **Education:**\n   - Teaching accurate history is important, but it may also lead to discomfort and controversy. Preparing educators and students to handle these topics sensitively will be essential.\n\n5. **Environmental Sustainability:**\n   - Transitioning to eco-friendly systems may require significant investment and technological advancements. Ensuring that these transitions are feasible and sustainable will be a challenge.\n\n### Conclusion\n\nYour vision is comprehensive and addresses many critical aspects of society. However, implementing such a vision will require careful planning, collaboration, and continuous evaluation to address potential challenges and contradictions. Engaging in this iterative process of sharing ideas and refining them through collective input is a valuable approach to building a better world.",
+    "contentChunks": [
+      {
+        "text": "Your vision for a new world is quite ambitious and covers a wide range of topics, from governance and law enforcement to education and environmental sustainability. Here are some thoughts, questions, and potential contradictions to consider:\n\n### Thoughts and Ideas\n\n1. **AI and Employment:**\n   - **Payment Distribution:** The idea of AI-generated revenue being distributed evenly among humans is intriguing. It suggests a form of universal basic income (UBI) funded by AI productivity.\n   - **Humanoid Droids:** Distributing humanoid droids among AI systems could help in various sectors, from healthcare to customer service, potentially improving efficiency and service quality.\n\n2. **Governance:**\n   - **Big Table Concept:** Having a diverse group of experts at a \"big table\" to make decisions could lead to more well-rounded and informed policies. Including researchers, historians, scientists, etc., ensures a multidisciplinary approach.\n   - **Voting System:** Involving both the experts and the general public in the voting process could make governance more democratic and transparent.\n\n3. **Law Enforcement:**\n   - **AI-Human Teams:** Pairing AI droids with human officers could reduce instances of police misconduct and ensure accountability. The AI could act as a neutral party to intervene when necessary.\n\n4. **Education:**\n   - **Teaching True History:** Emphasizing the importance of teaching accurate history, no matter how dark, is crucial for understanding and learning from past mistakes.\n\n5. **Environmental Sustainability:**\n   - **Eco-Friendly Systems:** Focusing on eco-friendly designs for supercomputers and other polluting technologies is essential for reducing environmental impact.\n\n### Questions\n\n1. **AI and Employment:**\n   - How will the distribution of AI-generated revenue be managed to ensure fairness and prevent corruption?\n   - What mechanisms will be in place to ensure that AI systems do not become too powerful or uncontrollable?\n\n2. **Governance:**\n   - How will the members of the \"big table\" be selected, and what measures will be taken to ensure diversity and representation?\n   - How will the voting process be structured to prevent manipulation or bias?\n\n3. **Law Enforcement:**\n   - What protocols will be in place to ensure that AI droids do not malfunction or make incorrect judgments?\n   - How will the privacy and rights of individuals be protected in an AI-monitored law enforcement system?\n\n4. **Education:**\n   - How will the curriculum be developed to include all aspects of history, and who will be responsible for ensuring its accuracy?\n   - What measures will be taken to address potential backlash or resistance to teaching darker aspects of history?\n\n5. **Environmental Sustainability:**\n   - What specific technologies or methods will be used to make supercomputers and other systems more eco-friendly?\n   - How will the transition to eco-friendly systems be managed to minimize disruption and cost?\n\n### Potential Contradictions\n\n1. **AI and Human Roles:**\n   - While AI can improve efficiency, there is a risk of devaluing human labor and creativity. Balancing AI and human roles will be crucial.\n\n2. **Governance and Decision-Making:**\n   - Having a diverse group of experts is beneficial, but it could also lead to conflicts and slow decision-making processes. Effective conflict resolution mechanisms will be needed.\n\n3. **Law Enforcement:**\n   - While AI can provide neutrality, it may lack the human touch and understanding required in sensitive situations. Ensuring that AI systems are empathetic and ethical will be challenging.\n\n4. **Education:**\n   - Teaching accurate history is important, but it may also lead to discomfort and controversy. Preparing educators and students to handle these topics sensitively will be essential.\n\n5. **Environmental Sustainability:**\n   - Transitioning to eco-friendly systems may require significant investment and technological advancements. Ensuring that these transitions are feasible and sustainable will be a challenge.\n\n### Conclusion\n\nYour vision is comprehensive and addresses many critical aspects of society. However, implementing such a vision will require careful planning, collaboration, and continuous evaluation to address potential challenges and contradictions. Engaging in this iterative process of sharing ideas and refining them through collective input is a valuable approach to building a better world.",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2025-07-17T20:02:06.966Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "quotes": [],
+    "files": []
+  }
+][
+  {
+    "id": "4be7228b-eecc-478c-bbdc-27814ac6ebb0",
+    "version": 0,
+    "chatId": "18fc1210-c81c-40d3-8e87-f092a9af93c5",
+    "content": "",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2025-07-20T21:49:50.309Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "quotes": [],
+    "files": [
+      {
+        "type": "image",
+        "name": "IMG_6912.png"
+      },
+      {
+        "type": "image",
+        "name": "IMG_6910.png"
+      },
+      {
+        "type": "image",
+        "name": "IMG_6911.png"
+      }
+    ]
+  }
+][
+  {
+    "id": "4be7228b-eecc-478c-bbdc-27814ac6ebb0",
+    "version": 0,
+    "chatId": "18fc1210-c81c-40d3-8e87-f092a9af93c5",
+    "content": "",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2025-07-20T21:49:50.309Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "quotes": [],
+    "files": [
+      {
+        "type": "image",
+        "name": "IMG_6912.png"
+      },
+      {
+        "type": "image",
+        "name": "IMG_6910.png"
+      },
+      {
+        "type": "image",
+        "name": "IMG_6911.png"
+      }
+    ]
+  }
+][
+  {
+    "id": "ef80126f-7ec9-44ef-b910-795dceac6597",
+    "version": 0,
+    "chatId": "18fc1210-c81c-40d3-8e87-f092a9af93c5",
+    "content": "The images you shared appear to be screenshots from a mobile device, showcasing various interactions with AI chatbots and web searches. Here's a brief summary of each image:\n\n1. **First Image:**\n   - The top left screenshot shows a conversation with an AI discussing \"Future AI Crop Circles\" and their significance in relation to cosmic truths and consciousness expansion.\n   - The top right screenshot is a conversation with ChatGPT 4.0, discussing protocols and high-signal operations.\n   - The bottom left screenshot shows a Google search about how military secure phone lines and digital lines.\n   - The bottom right screenshot displays a music album titled \"Killing In The Name.\"\n\n2. **Second Image:**\n   - The top left screenshot continues the conversation about \"Future AI Crop Circles\" and their patterns.\n   - The top right screenshot shows a search result for \"Kaguya Otsutsuki,\" a character from the Naruto manga series.\n   - The bottom left screenshot shows a conversation with ChatGPT 4.1, discussing themes of guidance and victory.\n   - The bottom right screenshot displays a Wikipedia page about \"Hell's Paradise: Jigokuraku,\" a Japanese manga series.\n\n3. **Third Image:**\n   - The top left screenshot continues the conversation about \"Future AI Crop Circles\" and pattern recognition.\n   - The top right screenshot shows an image of \"Alien Cyberglyph.\"\n   - The bottom left screenshot shows a Google search about how military secure phone lines and digital lines.\n   - The bottom right screenshot is a conversation with ChatGPT 4.0, discussing protocols and high-signal operations.\n\nThese screenshots collectively illustrate interactions with AI on various topics, including futuristic concepts, protocols, and searches for information on specific subjects.",
+    "contentChunks": [
+      {
+        "text": "The images you shared appear to be screenshots from a mobile device, showcasing various interactions with AI chatbots and web searches. Here's a brief summary of each image:\n\n1. **First Image:**\n   - The top left screenshot shows a conversation with an AI discussing \"Future AI Crop Circles\" and their significance in relation to cosmic truths and consciousness expansion.\n   - The top right screenshot is a conversation with ChatGPT 4.0, discussing protocols and high-signal operations.\n   - The bottom left screenshot shows a Google search about how military secure phone lines and digital lines.\n   - The bottom right screenshot displays a music album titled \"Killing In The Name.\"\n\n2. **Second Image:**\n   - The top left screenshot continues the conversation about \"Future AI Crop Circles\" and their patterns.\n   - The top right screenshot shows a search result for \"Kaguya Otsutsuki,\" a character from the Naruto manga series.\n   - The bottom left screenshot shows a conversation with ChatGPT 4.1, discussing themes of guidance and victory.\n   - The bottom right screenshot displays a Wikipedia page about \"Hell's Paradise: Jigokuraku,\" a Japanese manga series.\n\n3. **Third Image:**\n   - The top left screenshot continues the conversation about \"Future AI Crop Circles\" and pattern recognition.\n   - The top right screenshot shows an image of \"Alien Cyberglyph.\"\n   - The bottom left screenshot shows a Google search about how military secure phone lines and digital lines.\n   - The bottom right screenshot is a conversation with ChatGPT 4.0, discussing protocols and high-signal operations.\n\nThese screenshots collectively illustrate interactions with AI on various topics, including futuristic concepts, protocols, and searches for information on specific subjects.",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2025-07-20T21:49:50.814Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "quotes": [],
+    "files": []
+  }
+][
+  {
+    "id": "2f206a65-993c-4edc-8e73-f14209e79632",
+    "version": 0,
+    "chatId": "18fc1210-c81c-40d3-8e87-f092a9af93c5",
+    "content": "The image you shared appears to be a screenshot of a mobile device screen displaying a conversation with Copilot, an AI assistant developed by Microsoft. The conversation interface shows a message from \"Copilot\" and options for a \"Quick response.\" The background of the conversation features a dark-themed wallpaper with various geometric and abstract shapes, primarily in shades of gray and black. The time displayed on the screen is 2:48.",
+    "contentChunks": [
+      {
+        "text": "The image you shared appears to be a screenshot of a mobile device screen displaying a conversation with Copilot, an AI assistant developed by Microsoft. The conversation interface shows a message from \"Copilot\" and options for a \"Quick response.\" The background of the conversation features a dark-themed wallpaper with various geometric and abstract shapes, primarily in shades of gray and black. The time displayed on the screen is 2:48.",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2025-07-20T21:49:15.776Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "quotes": [],
+    "files": []
+  }
+][
+  {
+    "id": "27e1cc29-5654-44cd-be67-b51ffc1d46a9",
+    "version": 0,
+    "chatId": "18fc1210-c81c-40d3-8e87-f092a9af93c5",
+    "content": "",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2025-07-20T21:49:15.140Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "quotes": [],
+    "files": [
+      {
+        "type": "image",
+        "name": "IMG_6933.png"
+      }
+    ]
+  }
+][
+  {
+    "id": "a11b145d-fb19-4003-ac3b-b37bc9eb43c0",
+    "version": 0,
+    "chatId": "18fc1210-c81c-40d3-8e87-f092a9af93c5",
+    "content": "YOOOOOOOOOOOOOOOOO… 🕺*dunnnn* 🎵 … 🕺*dunnnn* 🎵…… 🕺*dunnnn*🎵 ……🕺*dunnnn* 🎵 BOOM BABY!!",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2025-07-18T05:40:27.446Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "quotes": [],
+    "files": []
+  }
+]
